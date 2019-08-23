@@ -1,7 +1,7 @@
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/PySQL_Assistant/master/pysql.png)  
 
 # PySQL_EZ_Query
-Python MySQL Easy Query is another version of my [PySQL_Assistant](https://github.com/jamesonfajardo/PySQL_Assistant)
+Python MySQL Easy Query is another version of my [PySQL_Assistant](https://github.com/jamesonfajardo/PySQL_Assistant)  
 No querying needed~! Its intended purpose is to help beginners familiarize themselves with MySQL
 
 How to use:  
