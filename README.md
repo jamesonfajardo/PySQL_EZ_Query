@@ -11,7 +11,7 @@ How to use:
 2. Define a function (steps 3-5 will be inside this function)  
     **![#00FA9A](https://placehold.it/15/00FA9A/000000?text=+) def ezQuery():**
    
-3. Create 3 variables. Make the value empty if you won't be using it:  
+3. Create 4 variables. Make the value empty if you won't be using it:  
     **![#00FA9A](https://placehold.it/15/00FA9A/000000?text=+) host = ''** `Your database host`  
     **![#00FA9A](https://placehold.it/15/00FA9A/000000?text=+) user = ''** `Your database username`  
     **![#00FA9A](https://placehold.it/15/00FA9A/000000?text=+) passwd = ''** `Your database password`  
